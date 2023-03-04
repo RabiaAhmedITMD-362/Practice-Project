@@ -89,7 +89,7 @@ form p a {
 }
 
 .btn-field button {
-	flex-basis: 48%;
+	flex-basis: auto;
 	background: #3c00a0;
 	color: #fff;
 	height: 40px;
