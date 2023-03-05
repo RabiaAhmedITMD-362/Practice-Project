@@ -76,6 +76,14 @@ input[type="submit"]:active {
   transition: 0.1s ease;
 }
 
+button{
+    background-color: #0856ee;
+    border: 0;
+    border-radius: 0.5em;
+    color: #ffffff;
+    font-size: 1.30em;
+    padding: 0.6em;
+
 .or {
   position: absolute;
   top: 180px;
