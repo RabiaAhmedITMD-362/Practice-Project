@@ -48,7 +48,7 @@ input[type="password"]:focus {
   transition: 0.2s ease;
 }
 
-button[type="submit"] {
+button {
   margin-top: 28px;
   width: 120px;
   height: 32px;
